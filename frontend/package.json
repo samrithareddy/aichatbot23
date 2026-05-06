@@ -16,5 +16,8 @@
     "react-dom": "latest",
     "react-markdown": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  }
 }
